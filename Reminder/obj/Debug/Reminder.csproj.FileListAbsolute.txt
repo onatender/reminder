@@ -1,0 +1,11 @@
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.csproj.AssemblyReference.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.Form1.resources
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\ONAT\Desktop\Ben Veri Çalışan\Reminder\Reminder\obj\Debug\Reminder.pdb
